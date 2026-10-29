@@ -1,0 +1,10 @@
+FOLDER TREE REPORT
+------------------
+Name: file1.txt
+Size: 10 bytes
+Modified: 2026-10-28T14:01:29.835Z
+
+Name: subfolder\file2.txt
+Size: 8 bytes
+Modified: 2026-10-28T14:01:29.835Z
+

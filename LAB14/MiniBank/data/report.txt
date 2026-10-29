@@ -1,0 +1,4 @@
+MiniBank End-of-Day Report
+
+Total deposits: Rs. 0
+Total withdrawals: Rs. 0
